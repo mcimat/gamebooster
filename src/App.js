@@ -1,7 +1,13 @@
+// import Hero from "./components/hero";
+// import Content from "./components/content";
+import Services from "./components/services";
+
 function App() {
   return (
     <div>
-      <h1>Inital setup</h1>
+      {/* <Hero /> */}
+      {/* <Content /> */}
+      <Services />
     </div>
   );
 }
